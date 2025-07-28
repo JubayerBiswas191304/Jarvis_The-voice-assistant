@@ -15,7 +15,7 @@ import contextlib
 # Initialize TTS engine and recognizer
 engine = pyttsx3.init()
 recognizer = sr.Recognizer()
-api_key=("9ed2f3554d73476aaf92ab7d2524efd9")
+api_key=("Your openai api key")
     
 
 def speak_old(text):
